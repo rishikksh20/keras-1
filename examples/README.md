@@ -54,6 +54,9 @@ Implementation of AC-GAN ( Auxiliary Classifier GAN ) on the MNIST dataset
 [mnist_cnn.py](mnist_cnn.py)
 Trains a simple convnet on the MNIST dataset.
 
+[mnist_gan.py](mnist_gan.py)
+Implementation of generative adversarial network on the MNIST dataset
+
 [mnist_hierarchical_rnn.py](mnist_hierarchical_rnn.py)
 Trains a Hierarchical RNN (HRNN) to classify MNIST digits.
 
